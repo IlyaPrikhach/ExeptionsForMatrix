@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\obj\Debug\netcoreapp3.1\ExeptionsForMatrix.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\obj\Debug\netcoreapp3.1\ExeptionsForMatrix.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\obj\Debug\netcoreapp3.1\ExeptionsForMatrix.AssemblyInfo.cs
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\bin\Debug\netcoreapp3.1\ExeptionsForMatrix.exe
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\bin\Debug\netcoreapp3.1\ExeptionsForMatrix.deps.json
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\bin\Debug\netcoreapp3.1\ExeptionsForMatrix.runtimeconfig.json
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\bin\Debug\netcoreapp3.1\ExeptionsForMatrix.runtimeconfig.dev.json
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\bin\Debug\netcoreapp3.1\ExeptionsForMatrix.dll
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\bin\Debug\netcoreapp3.1\ExeptionsForMatrix.pdb
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\obj\Debug\netcoreapp3.1\ExeptionsForMatrix.dll
+C:\Users\user\Desktop\Epam\ExeptionsForMatrix\ExeptionsForMatrix\obj\Debug\netcoreapp3.1\ExeptionsForMatrix.pdb
